@@ -49,7 +49,7 @@ function getReplaceList() {
   return replaceList
 }
 
-// 如果有加速资源则点亮图标
+// 如果有阻止的广告则点亮图标
 function setIcon(tabid) {
   chrome.browserAction.setIcon({
     tabId: parseInt(tabid),

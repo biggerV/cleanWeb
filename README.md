@@ -1,5 +1,5 @@
 # cleanWeb
-cleanWeb - Google Chrome Extension 网页广告杀手，谷歌扩展
+cleanWeb - Google Chrome Extension 网页广告杀手，谷歌扩展，可自行添加过滤规则
 
 ## 使用方法
 
