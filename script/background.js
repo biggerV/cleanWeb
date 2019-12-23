@@ -14,6 +14,7 @@ const matches = [
   /static.oschina.net\/uploads\/cooperation/,
   /rabc2.iteye.com/,
   /adaccount.csdn.net/,
+  /ydstatic.com/,
 ]
 
 // 监听网络请求，阻止的广告加载
