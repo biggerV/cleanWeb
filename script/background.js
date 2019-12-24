@@ -15,6 +15,7 @@ const matches = [
   /rabc2.iteye.com/,
   /adaccount.csdn.net/,
   /ydstatic.com/,
+  /doubleclick.net/,
 ]
 
 // 监听网络请求，阻止的广告加载
