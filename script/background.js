@@ -16,6 +16,7 @@ const matches = [
   /adaccount.csdn.net/,
   /ydstatic.com/,
   /doubleclick.net/,
+  /dlads.cn/,
 ]
 
 // 监听网络请求，阻止的广告加载
